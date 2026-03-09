@@ -6,20 +6,16 @@ The Smart Agriculture System is an IoT-based project designed to automate and op
 
 ## Project Objectives
 
-* 
-**Automate Irrigation:** Streamline the watering process.
+* **Automate Irrigation:** Streamline the watering process.
 
 
-* 
-**Real-Time Monitoring:** Track environmental conditions constantly.
+* **Real-Time Monitoring:** Track environmental conditions constantly.
 
 
-* 
-**Resource Optimization:** Optimize water usage efficiently.
+* **Resource Optimization:** Optimize water usage efficiently.
 
 
-* 
-**Reduce Dependency:** Lower human effort and manual intervention.
+* **Reduce Dependency:** Lower human effort and manual intervention.
 
 
 
@@ -62,20 +58,16 @@ The system operates using a coordinated logic flow between the microcontrollers 
 
 ## Key Features
 
-* 
-**Automated Irrigation:** The water pump activates automatically when soil moisture falls below a set threshold.
+* **Automated Irrigation:** The water pump activates automatically when soil moisture falls below a set threshold.
 
 
-* 
-**Real-Time Environmental Monitoring:** The system continuously measures soil moisture, temperature, and humidity using its sensors.
+* **Real-Time Environmental Monitoring:** The system continuously measures soil moisture, temperature, and humidity using its sensors.
 
 
-* 
-**Energy Efficient:** The system operates only when necessary, reducing both power and water consumption.
+* **Energy Efficient:** The system operates only when necessary, reducing both power and water consumption.
 
 
-* 
-**User-Defined Thresholds:** Moisture levels can be easily configured to suit different types of crops and varying soil conditions.
+* **User-Defined Thresholds:** Moisture levels can be easily configured to suit different types of crops and varying soil conditions.
 
 
 
